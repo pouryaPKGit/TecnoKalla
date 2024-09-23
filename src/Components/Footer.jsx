@@ -44,7 +44,7 @@ function Footer() {
       </div>
     </div>
     <div className="dark:bg-gray-800 text-gray-700 bg-slate-50 border-y border-dashed border-gray-300 shadow-sm my-3 h-[100px] flex flex-col justify-center gap-2 pr-5">
-      <h1 className="dark:text-white text-xl">| Developede By : Pourya Pourkhani |</h1>
+      <h1 className="dark:text-white text-xl">| Developed By : Pourya Pourkhani |</h1>
       
     </div>
     </>
